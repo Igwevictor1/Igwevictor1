@@ -5,6 +5,8 @@
 - 📫 How to reach me: @igwevictor1. WhatsApp +2348026010599
 
 <!---
-Igwevictor1/Igwevictor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I'm already enjoying ALX SE program even though it comes with so much hurdles each day, well,
+I signed up to do hard things and I think this is one of it. Looking forward to joining "The Room" 
+Igwevictor1/Igwevictor1✨ This is my special Readme repo, check the bio for more information and how to contact me for collaborations. 
+
 --->
