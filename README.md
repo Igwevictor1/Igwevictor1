@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Igwevictor1
-- 👀 I’m interested in Frontend/Backend web development 
-- 🌱 I’m currently learning Software engineering at ALX
+- 👋 Hi, I’m Igwe Victor
+- 👀 I’m interested in Frontend/Backend web development. 
+- 🌱 I’m currently learning Software engineering at ALX SE program.
 - 💞️ I’m looking to collaborate on C, Python, Java/JavaScript, C++, etc.
 - 📫 How to reach me: @igwevictor1. WhatsApp +2348026010599
 
